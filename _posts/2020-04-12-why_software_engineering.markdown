@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Software Engineering?"
-date:       2020-04-12 08:32:15 +0000
+date:       2020-04-12 04:32:16 -0400
 permalink:  why_software_engineering
 ---
 
